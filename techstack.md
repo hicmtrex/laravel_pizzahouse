@@ -48,7 +48,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hicmtrex/laravel_pizzahouse](https://github.com/hicmtrex/laravel_pizzahouse)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|29<br/>Tools used|12/21/23 <br/>Report generated|
+|30<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -201,7 +201,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (13)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (14)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/1778/default_90cb8b66e85ae5b95928b10bb076ab6a27c7e151.png'/> Packagist (8)
 
@@ -217,10 +217,11 @@ Full tech stack [here](/techstack.md)
 |[phpunit/phpunit](https://packagist.org/phpunit/phpunit)|v9.5.13|02/01/22|Firstname Lastname |N/A|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (5)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (6)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
+|[laravel-mix](https://www.npmjs.com/laravel-mix)|v6.0.41|02/01/22|Firstname Lastname |MIT|N/A|
 |[resolve-url-loader](https://www.npmjs.com/resolve-url-loader)|v3.1.4|02/01/22|Firstname Lastname |MIT|N/A|
 |[sass-loader](https://www.npmjs.com/sass-loader)|v11.1.1|02/01/22|Firstname Lastname |MIT|N/A|
 |[vue](https://www.npmjs.com/vue)|v2.6.14|02/01/22|Firstname Lastname |MIT|N/A|
